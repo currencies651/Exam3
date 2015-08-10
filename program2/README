@@ -1,0 +1,2 @@
+mvn compile
+mvn mvn exec:java -Dexec.mainClass="com.hand.program2.SendPDF"
